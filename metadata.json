@@ -1,0 +1,6 @@
+{
+  "name": "Rassoul's music",
+  "description": "Lecteur audio optimisé gaming propulsé par Scrapling (D4Vinci) avec overlay HUD summonable (Alt + M), profil audio Ducking Discord et importateur de playlists YouTube, SoundCloud et Apple Music.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
